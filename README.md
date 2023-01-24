@@ -28,8 +28,7 @@ Instead of single analysis of input from players, the game now permit number of 
 
 The picture below summarises the view of the input screen. Count down timer is being displayed on the first row. The second row indicate the matching gesture of the trained images.
 
-![](C:\Users\Idi\Comp_Vision_Project\gui.jpg)
-![](C:\Users\Idi\Comp_Vision_Project\result.jpg)
+![gui](https://user-images.githubusercontent.com/53040471/214426995-aacb8a75-636f-4077-aa3d-08863b6567a1.jpg)
 
-
+![result](https://user-images.githubusercontent.com/53040471/214427159-444a80d6-219a-4842-a197-f7fd4f36dcb2.jpg)
 
